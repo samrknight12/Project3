@@ -18,3 +18,11 @@ Since the main data is the car crashes in 2017, I decided to make the roads extr
 The Layer for this map is a circle with a radius of 4px, and opacity of 0.97, a blur of 0, and no stroke width. I thought with so many points, having a point outlines just increases the cluttered look. The smaller size of the points is also meant to reduce the cluttered look. For colour I went with 778ef9 which is a purple-blue. It is a soft colour so it wont give the user a headache but contrast the map enough to stand out. 
 
 ![lay1](Maplay1.png)
+
+## The Map - Page View
+The user has the option of seeing the layer of car crashes or not.
+When On:
+![mapison](mapon.png)
+
+When Off:
+![mapisoff](mapoff.png)
