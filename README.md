@@ -12,3 +12,9 @@ I also made the Parks very green and the Waterbodies very blue so they would pop
 Since the main data is the car crashes in 2017, I decided to make the roads extra dark so they can be easily seen, I also made them a bit thicker.
 
 ![Comp1](Mapcomp1.png)
+
+
+### The Map - Layer
+The Layer for this map is a circle with a radius of 4px, and opacity of 0.97, a blur of 0, and no stroke width. I thought with so many points, having a point outlines just increases the cluttered look. The smaller size of the points is also meant to reduce the cluttered look. For colour I went with 778ef9 which is a purple-blue. It is a soft colour so it wont give the user a headache but contrast the map enough to stand out. 
+
+![lay1](Maplay1.png)
