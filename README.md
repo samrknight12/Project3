@@ -1,5 +1,6 @@
 # Project 3 ENGO 551
 ## This is an extension of project 2
+### By Sam Knight
 
 ### The Map - Components 
 To create the style layer I made adjustments to the predefined "Basic" map in MapBox.
@@ -26,3 +27,7 @@ When On:
 
 When Off:
 ![mapisoff](mapoff.png)
+
+
+The previous functionalities from Project 2 still work!
+![fullmap](mapfull.png)
